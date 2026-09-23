@@ -1,4 +1,4 @@
-# Station Météo IoT — Collecteur & API REST (SenseCAP S2120)
+# Station Météo IoT - Collecteur & API REST (SenseCAP S2120)
 
 Système d'ingestion, de surveillance et de restitution de métriques environnementales conçu pour les stations météo LoRaWAN / MQTT de la CCI.
 
